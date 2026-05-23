@@ -1,8 +1,8 @@
 # Laporan UTS-AVD-Dataset-Gaming-Jobs-and-Broadband
 
-                                                                                             Dibuat oleh: Riaz Ramadhan Al Fattah
-                                                                                             
-                                                                                             NIM: 2509116106
+                                                                          Dibuat oleh: Riaz Ramadhan Al Fattah
+                                                                                                 
+                                                                          NIM: 2509116106
 
 <div align="center">
 
