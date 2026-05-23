@@ -58,9 +58,13 @@ Analisis dalam notebook dilakukan dengan alur kerja berikut:
 1. Import Library & Load DataMengimpor library utama (pandas, numpy, matplotlib, seaborn) dan memuat dataset.
 2. Exploratory Data Analysis (EDA)
     * Comparison: Perbandingan akses broadband berdasarkan tingkat pendapatan (Stacked Bar Chart).
+      <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/2fcccaf7-0ba0-4dd2-b9fe-765838000edc" />
     * Composition: Komposisi kepemilikan smartphone responden (Pie Chart).
+      <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/ba029456-7025-4396-b1ee-ee0dfe11702c" />
     * Distribution: Distribusi umur responden (Histogram & KDE).
+      <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/c156c83d-1738-485c-912f-8304dcc0d4ed" />
     * Relationship: Korelasi antar variabel numerik demografi (Heatmap).
+      <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/c7dfc274-a7ab-47c9-98de-db3a72790984" />
 3. Data Preprocessing
     * Pengecekan tipe data dan struktur dataset.
     * Parsing tanggal (int_date) menjadi format Datetime standar serta ekstraksi fitur tahun, bulan, dan hari.
